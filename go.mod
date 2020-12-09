@@ -6,4 +6,5 @@ require (
 	github.com/aws/aws-sdk-go v1.36.4 // indirect
 	golang.org/x/net v0.0.0-20201207224615-747e23833adb // indirect
 	golang.org/x/text v0.3.4 // indirect
+	rsc.io/quote v1.5.2
 )
